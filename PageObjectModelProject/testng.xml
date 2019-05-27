@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HRMS">
+  <test name="TC_Login_003">
+    <parameter name="testId" value="TC_Login_003"/>
+    <classes>
+      <class name="com.testDrivers.TestDriver"/>
+    </classes>
+  </test> <!-- TC_Login_003 -->
+</suite> <!-- HRMS -->

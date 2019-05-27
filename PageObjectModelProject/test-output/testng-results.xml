@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22860" started-at="2019-05-27T22:03:28Z" finished-at="2019-05-27T22:03:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22860" started-at="2019-05-27T22:03:28Z" finished-at="2019-05-27T22:03:51Z">
+      <class name="com.hrms.TestScripts.TC_001">
+        <test-method status="PASS" signature="hrmsLoginTest()[pri:0, instance:com.hrms.TestScripts.TC_001@64616ca2]" name="hrmsLoginTest" duration-ms="7293" started-at="2019-05-27T17:03:28Z" finished-at="2019-05-27T17:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmsLoginTest -->
+      </class> <!-- com.hrms.TestScripts.TC_001 -->
+      <class name="com.hrms.TestScripts.TC_002">
+        <test-method status="PASS" signature="hrmsUserHomeTest()[pri:0, instance:com.hrms.TestScripts.TC_002@3d8c7aca]" name="hrmsUserHomeTest" duration-ms="6424" started-at="2019-05-27T17:03:36Z" finished-at="2019-05-27T17:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmsUserHomeTest -->
+      </class> <!-- com.hrms.TestScripts.TC_002 -->
+      <class name="com.hrms.TestScripts.TC_003">
+        <test-method status="PASS" signature="hrmsAddEmpTest()[pri:0, instance:com.hrms.TestScripts.TC_003@13fee20c]" name="hrmsAddEmpTest" duration-ms="9111" started-at="2019-05-27T17:03:42Z" finished-at="2019-05-27T17:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmsAddEmpTest -->
+      </class> <!-- com.hrms.TestScripts.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

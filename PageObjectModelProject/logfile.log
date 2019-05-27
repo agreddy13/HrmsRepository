@@ -1,0 +1,77 @@
+2019-05-27 16:12:46,783 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 16:12:46,783 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:16:05,829 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 16:16:06,093 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:18:49,265 INFO  [LoggerUtils] Test ID: TC_Login_001 
+2019-05-27 16:18:49,265 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:18:52,722 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:18:54,567 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:18:54,576 INFO  [LoggerUtils] Admin 
+2019-05-27 16:18:56,110 INFO  [LoggerUtils] Test ID: TC_Login_002 
+2019-05-27 16:18:56,110 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:18:58,470 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:18:59,718 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:18:59,725 INFO  [LoggerUtils] Admin 
+2019-05-27 16:19:02,385 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 16:19:02,386 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:19:04,790 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:19:05,946 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:19:05,952 INFO  [LoggerUtils] Admin 
+2019-05-27 16:21:29,483 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:21:30,720 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:21:30,730 INFO  [LoggerUtils] Admin 
+2019-05-27 16:22:30,998 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 16:22:30,998 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:22:34,302 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:22:35,444 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:22:35,452 INFO  [LoggerUtils] Admin 
+2019-05-27 16:24:41,486 INFO  [LoggerUtils] Test ID: TC_Login_001 
+2019-05-27 16:24:41,486 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:24:44,926 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:24:46,226 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:24:46,235 INFO  [LoggerUtils] Admin 
+2019-05-27 16:24:47,478 INFO  [LoggerUtils] Test ID: TC_Login_002 
+2019-05-27 16:24:47,478 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:24:50,037 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:24:55,947 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:24:55,952 INFO  [LoggerUtils] Admin 
+2019-05-27 16:24:59,653 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 16:24:59,653 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:25:02,666 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:25:04,057 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:25:04,062 INFO  [LoggerUtils] Admin 
+2019-05-27 16:59:11,904 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 16:59:15,405 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:16,895 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:16,903 INFO  [LoggerUtils] Admin 
+2019-05-27 16:59:20,604 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:22,679 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:22,686 INFO  [LoggerUtils] Admin 
+2019-05-27 16:59:28,383 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:29,783 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 16:59:29,789 INFO  [LoggerUtils] Admin 
+2019-05-27 17:00:26,387 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 17:00:29,644 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:31,771 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:31,778 INFO  [LoggerUtils] Admin 
+2019-05-27 17:00:35,692 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:36,666 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:36,673 INFO  [LoggerUtils] Admin 
+2019-05-27 17:00:41,700 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:43,018 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:00:43,034 INFO  [LoggerUtils] Admin 
+2019-05-27 17:03:29,709 INFO  [LoggerUtils] Test ID: TC_Login_001 
+2019-05-27 17:03:29,709 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 17:03:33,122 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:34,829 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:34,836 INFO  [LoggerUtils] Admin 
+2019-05-27 17:03:36,301 INFO  [LoggerUtils] Test ID: TC_Login_002 
+2019-05-27 17:03:36,316 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 17:03:38,851 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:40,072 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:40,078 INFO  [LoggerUtils] Admin 
+2019-05-27 17:03:42,729 INFO  [LoggerUtils] Test ID: TC_Login_003 
+2019-05-27 17:03:42,730 INFO  [LoggerUtils] File is: testng.xml 
+2019-05-27 17:03:45,319 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:47,853 INFO  [LoggerUtils] Driver Setup 
+2019-05-27 17:03:47,859 INFO  [LoggerUtils] Admin 
