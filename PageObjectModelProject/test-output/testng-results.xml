@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22860" started-at="2019-05-27T22:03:28Z" finished-at="2019-05-27T22:03:51Z">
+  <suite name="Suite" duration-ms="29491" started-at="2019-05-27T23:19:25Z" finished-at="2019-05-27T23:19:55Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22860" started-at="2019-05-27T22:03:28Z" finished-at="2019-05-27T22:03:51Z">
+    <test name="Test" duration-ms="29491" started-at="2019-05-27T23:19:25Z" finished-at="2019-05-27T23:19:55Z">
       <class name="com.hrms.TestScripts.TC_001">
-        <test-method status="PASS" signature="hrmsLoginTest()[pri:0, instance:com.hrms.TestScripts.TC_001@64616ca2]" name="hrmsLoginTest" duration-ms="7293" started-at="2019-05-27T17:03:28Z" finished-at="2019-05-27T17:03:36Z">
+        <test-method status="PASS" signature="hrmsLoginTest()[pri:0, instance:com.hrms.TestScripts.TC_001@64616ca2]" name="hrmsLoginTest" duration-ms="8271" started-at="2019-05-27T18:19:25Z" finished-at="2019-05-27T18:19:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hrmsLoginTest -->
       </class> <!-- com.hrms.TestScripts.TC_001 -->
       <class name="com.hrms.TestScripts.TC_002">
-        <test-method status="PASS" signature="hrmsUserHomeTest()[pri:0, instance:com.hrms.TestScripts.TC_002@3d8c7aca]" name="hrmsUserHomeTest" duration-ms="6424" started-at="2019-05-27T17:03:36Z" finished-at="2019-05-27T17:03:42Z">
+        <test-method status="PASS" signature="hrmsUserHomeTest()[pri:0, instance:com.hrms.TestScripts.TC_002@3d8c7aca]" name="hrmsUserHomeTest" duration-ms="10576" started-at="2019-05-27T18:19:33Z" finished-at="2019-05-27T18:19:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hrmsUserHomeTest -->
       </class> <!-- com.hrms.TestScripts.TC_002 -->
       <class name="com.hrms.TestScripts.TC_003">
-        <test-method status="PASS" signature="hrmsAddEmpTest()[pri:0, instance:com.hrms.TestScripts.TC_003@13fee20c]" name="hrmsAddEmpTest" duration-ms="9111" started-at="2019-05-27T17:03:42Z" finished-at="2019-05-27T17:03:51Z">
+        <test-method status="PASS" signature="hrmsAddEmpTest()[pri:0, instance:com.hrms.TestScripts.TC_003@13fee20c]" name="hrmsAddEmpTest" duration-ms="10616" started-at="2019-05-27T18:19:44Z" finished-at="2019-05-27T18:19:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- hrmsAddEmpTest -->

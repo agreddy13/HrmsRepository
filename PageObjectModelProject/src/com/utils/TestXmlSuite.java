@@ -48,7 +48,6 @@ public class TestXmlSuite {
 
 		while (rowIterator.hasNext()) {
 			row = (XSSFRow) rowIterator.next();
-			System.out.println(row.getCell(0).getStringCellValue());
 			if (testId.equals(row.getCell(0).getStringCellValue())) {
 				break;
 			}
